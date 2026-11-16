@@ -18,7 +18,7 @@ message = "Todey is a rainy day."
 
 print(name)
 
-# Float(duble) - "floating poit number" RICERCA LE BASI DI PYTHON
+# Float(duble) - "floating poit number" 
 pi = 3.14
 temp = -2.2 # = Enačaj
 
