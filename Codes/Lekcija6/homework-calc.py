@@ -25,25 +25,26 @@ else:
     print("Nekaj je šlo narobe, poskusi ponovno") 
 
 
-
+"""
 #Homework 8.3: Calculator
-#num1 = float(input("Enter the first number: "))
+num1 = float(input("Enter the first number: "))
 
-#operation = input("Enter the operation (+, -, *, /): ")
+operation = input("Enter the operation (+, -, *, /): ")
 
-#num2 = float(input("Enter the second number: "))
+num2 = float(input("Enter the second number: "))
 
-#if operation == "+":
-    #print(num1 + num2)
+if operation == "+":
+    print(num1 + num2)
 
-#elif operation == "-":
-    #print(num1 - num2)
+elif operation == "-":
+    print(num1 - num2)
 
-#elif operation == "*":
-    #print(num1 * num2)
+elif operation == "*":
+    print(num1 * num2)
 
-#elif operation == "/":
-    #print(num1 / num2)
+elif operation == "/":
+    print(num1 / num2)
 
-#else:
-    #print("I do not recognise this operation.")
+else:
+    print("I do not recognise this operation.")
+"""
